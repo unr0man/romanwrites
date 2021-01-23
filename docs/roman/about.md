@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello visitor. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Welcome to Roman Writes ~ my little corner of cyber space.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+There's not much you need to know about me:
+- I'm a citizen of earth.
+- I'll be posting short essays and stories here. Stay tuned for the occasional love letter and diatribe.
+- Got feedback? Email me, the author, with your questions, comments, rants, objections--aesthetic or ethical.
 
+That's about it.
 
-[jekyll-organization]: https://github.com/jekyll
+Hope you find something you like. Hope you stay awhile.
+
+~Roman
