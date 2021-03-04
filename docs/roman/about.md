@@ -4,17 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Hello visitor. 
+~Greetings~ 
 
-Welcome to Roman Writes ~ my little corner of cyber space.
+Welcome to Roman Writes ~ my little corner of the metaverse.
 
-There's not much you need to know about me:
-- I'm a citizen of earth.
-- I'll be posting short essays and stories here. Stay tuned for the occasional love letter and diatribe.
-- Got feedback? Email me, the author, with your questions, comments, rants, objections--aesthetic or ethical.
-
+There's not much you need to know about me.
+- I'll be posting my stories here. Maybe the occasional letter or essay.
+- Got feedback? Email me: romanadeis@protonmail.com
 That's about it.
 
-Hope you find something you like. Hope you stay awhile.
+Hope you find something you like.
 
-~Roman
+~ ROMAN
